@@ -1,7 +1,9 @@
-const AddTaskCardButton = () => {
+export const AddTaskCardButton = () => {
 	return (
-		<div>AddTaskCardButton</div>
-	)
-}
+		<>
+			<div></div>
+		</>
+	);
+};
 
 export default AddTaskCardButton;
